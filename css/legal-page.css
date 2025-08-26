@@ -4,6 +4,7 @@
   margin-top: 60px;
   width: 100%;
   position: fixed;
+  z-index: 3;
 }
 
 .legal-header h1 {
@@ -64,6 +65,8 @@ footer {
   background-color: #e2e2e2;
   padding: 0 30px;
   min-height: 70px;
+  bottom: 0px;
+  position: fixed;
 }
 
 .footer-content {
@@ -75,7 +78,8 @@ footer {
   align-items: center;
   margin: 0 auto;
   position: fixed;
-  bottom: 0;
+  bottom: 0px;
+position: relative;
 }
 
 .agree-btn {

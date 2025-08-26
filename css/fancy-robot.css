@@ -143,7 +143,7 @@ background-image:radial-gradient(rgb(17, 47, 147), yellow);
        border-bottom: 100px solid rgb(245, 0, 12);
       border-left: 25px solid transparent;
       border-right: 25px solid transparent;
-      height: 100;
-      width: 100px;
+      height: 2rem;
+      width: 6rem;
       opacity: 25%;
 }
